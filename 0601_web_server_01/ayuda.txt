@@ -1,0 +1,6 @@
+ejecutar el siguiente comando para crear el package.json
+    npm init -y
+probar la aplicacion con el comando
+    node app.js
+y el comando
+    nodemon app.js

@@ -1,0 +1,8 @@
+cargar el package.json:
+npm init -y
+Cargar los siguientes paquetes:
+npm i colors
+luego crear el archivo .gitingnore
+node_modules/
+crear el app
+

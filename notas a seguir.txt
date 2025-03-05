@@ -1,0 +1,8 @@
+instalar el paquete Nodemon
+Buscar el paquete en google  ver el mismo que hace y luego instalar
+npm install -g nodemon
+abrir una terminal en modo administrador copiar la anterior sentencia de instalacion
+comprobar la instalacion con
+nodemon --version
+si ya esta todo instalado 
+Sirve para hacer Hotreload del proyecto que se esta trabajando
