@@ -1,0 +1,11 @@
+en postman
+
+Elegir post > Body > raw > Json
+
+Enviar:
+
+{
+    "nombre": "Miguel",
+    "Edad": 35
+
+}

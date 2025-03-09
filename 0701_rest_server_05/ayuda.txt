@@ -1,0 +1,3 @@
+instalar cors
+
+npm install cors

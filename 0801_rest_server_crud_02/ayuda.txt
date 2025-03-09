@@ -1,0 +1,19 @@
+Mongo de DB crear una cuenta
+
+https://www.mongodb.com/cloud/atlas/register
+
+en env colocar deacuerdo a la conexion
+
+MONGO_CNN = mongodb+srv://usuario_ejemplo:ptaRuJJeucFkiUeI@cluster0.wmx9m.mongodb.net/ejemplo_db_01
+
+USER = usuario_ejemplo
+
+PASS = ptaRuJJeucFkiUeI
+
+instalar Mongoose un ODM
+
+https://mongoosejs.com/
+
+npm install mongoose 
+
+

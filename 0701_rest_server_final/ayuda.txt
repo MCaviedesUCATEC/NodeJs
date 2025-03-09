@@ -1,0 +1,17 @@
+en postman
+
+Elegir put > Body > raw > Json
+
+
+Enviar:
+
+url:
+
+localhost:8080/api/usuarios/7
+
+parte dos para el GET
+
+
+url:
+
+localhost:8080/api/usuarios?=hola&nombre=Miguel&apikey=1234567980
