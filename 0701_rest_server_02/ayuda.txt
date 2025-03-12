@@ -1,3 +1,6 @@
 instalar express y dotenv
 
 npm i express dotenv
+
+Convertir env.txt a .env o crear un archivo .env y luego copiar el contenido del otro archivo
+

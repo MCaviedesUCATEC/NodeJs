@@ -1,3 +1,5 @@
 instalar cors
 
 npm install cors
+
+Convertir env.txt a .env o crear un archivo .env y luego copiar el contenido del otro archivo

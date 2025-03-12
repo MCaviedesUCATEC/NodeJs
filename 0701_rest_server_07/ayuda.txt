@@ -15,3 +15,5 @@ parte dos para el GET
 url:
 
 localhost:8080/api/usuarios?=hola&nombre=Miguel&apikey=1234567980
+
+Convertir env.txt a .env o crear un archivo .env y luego copiar el contenido del otro archivo
